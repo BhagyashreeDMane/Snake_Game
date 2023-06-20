@@ -1,4 +1,4 @@
-# Snake_Game
+# Snake Game
 **Snake Game using Turtle Graphics**
 
 This is a simple Snake Game implemented in Python using the Turtle graphics module. The game allows the player to control a snake and navigate it around the screen to eat food and grow longer. The objective is to eat as much food as possible without colliding with the walls or the snake's own body.
